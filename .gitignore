@@ -1,5 +1,5 @@
-node_modules/
-/test-results/
-/playwright-report/
-/blob-report/
-/playwright/.cache/
+.github
+node_modules
+test-results
+tests-examples
+.vscode
